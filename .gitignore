@@ -30,7 +30,7 @@ firebase.json
 /lib/models/user.dart
 /lib/services/auth_services.dart
 /lib/services/user_services.dart
-/lib/shared/shared_value.dart
+/lib/shared/*
 /android/app/google-services.json
 .dart_tool/
 .flutter-plugins
@@ -38,6 +38,7 @@ firebase.json
 .pub-cache/
 .pub/
 /build/
+
 
 # Symbolication related
 app.*.symbols
